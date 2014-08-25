@@ -1,0 +1,4 @@
+SEEING DOUBLE README
+
+On Linux, open a terminal in this directory and execute "./run"
+On other platforms execute "java -jar SeeingDouble.jar"
